@@ -1,0 +1,87 @@
+puttyins.txt,1066
+puttyins.txt,1066
+amazon.txt,180
+puttyins.txt,1066
+puttyins.txt,1066
+puttyins.txt,1066
+puttyins.txt,1066
+amazon.txt,180
+data.txt,199
+ATM Using FingerPrint.docx,11071
+intex.txt,352
+New Microsoft Word Document.docx,21690
+intex.txt,352
+intex.txt,252
+innov.txt,252
+innov.txt,252
+intex.txt,252
+innov.txt,252
+New Microsoft Word Document.docx,21690
+participation_certificate.pdf,269275
+admit cc.oxps,883604
+insist.txt,266
+Admit Card.pdf,271178
+6.Secure Data Deduplication with Dynamic.pdf,1668598
+New Microsoft Word Document.docx,21690
+innov.txt,252
+New Microsoft Word Document.docx,20311
+New Microsoft Word Document.docx,20311
+New Microsoft Word Document.docx,20139
+abc,0
+abc.txt,382
+abc.txt,382
+abc.txt,160
+123.txt,160
+123.txt,160
+abc.txt,542
+abc.txt,542
+insist.txt,266
+New Microsoft Word Document.docx,20139
+abc.txt,542
+intex.txt,252
+pathan awej ack.docx,17528
+insist.txt,266
+insist.txt,224
+insist.txt,224
+insist.txt,224
+cs.txt,224
+innov.txt,252
+intex.txt,252
+cs.txt,224
+innov.txt,252
+abc.txt,542
+info.txt,224
+intex.txt,252
+info.txt,224
+innov.txt,252
+intex.txt,252
+innov.txt,252
+info.txt,224
+abc.txt,542
+cs.txt,542
+cs.txt,542
+intex.txt,252
+lab.docx,17834
+lab1.docx,17895
+inform.txt,338
+lab.docx,17829
+lab1.docx,17895
+lab1.docx,18192
+lab1.docx,18192
+cs.txt,542
+APPLICATION1.docx,14317
+APPLI.docx,14186
+APPLI.docx,14258
+APPLI.docx,14258
+APPLI.docx,14657
+ACKNOWLEDGEMENT.docx,13862
+ACKNOWLEDGEMENT.docx,13862
+ackno.txt,976
+ackno.txt,976
+ackno.txt,942
+innov.txt,252
+lab1.docx,18192
+lab1.docx,18192
+lab.docx,17839
+lab.docx,18119
+intex.txt,320

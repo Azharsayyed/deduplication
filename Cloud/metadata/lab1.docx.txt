@@ -1,0 +1,10 @@
+lab1.docx,lab1.docx_chunk0.docx,1824,b1ef34158a066a008d20711b148b6b01377ab7a3
+lab1.docx,lab1.docx_chunk1.docx,1824,13931082b80736132a4e6b456965b65f9f8aacde
+lab1.docx,lab1.docx_chunk2.docx,1824,4628983e40b19d79e17e7aaea4153e5c179d2639
+lab1.docx,lab1.docx_chunk3.docx,1824,6aa74551f460590a8af540ea9f834c439c64331e
+lab1.docx,lab1.docx_chunk4.docx,1824,70f3fc5d4bdf989fda27434d0be21c4da5143722
+lab1.docx,lab1.docx_chunk5.docx,1824,4eb9e4c28da6391e6321aea04a0cbec27c99dead
+lab1.docx,lab1.docx_chunk6.docx,1824,5bc36293bfb49b58f58de73096d9fa883c718f3b
+lab1.docx,lab1.docx_chunk7.docx,1824,8e33719c6f91d156746b79c09e578353fb6d971d
+lab1.docx,lab1.docx_chunk8.docx,1824,dafd9c8a67985ecbb271e6d9a14914185a46c011
+lab1.docx,lab1.docx_chunk9.docx,1824,f054dbee7aab08d0551abbd4cd647ee7d39e0960

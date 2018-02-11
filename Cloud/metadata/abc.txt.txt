@@ -1,0 +1,5 @@
+abc.txt,abc.txt_chunk0.txt,112,1697280b686dfa50e6227db3b844a34c35736859
+abc.txt,abc.txt_chunk1.txt,112,cecae1c15edeec37a32fe30f00dc102b4efbd6c1
+abc.txt,abc.txt_chunk2.txt,112,076aa329fc603581402a34918fe648a46abd2205
+abc.txt,abc.txt_chunk3.txt,112,bd76adc058aa882133a10b9bc9976a51f7ded0c3
+abc.txt,abc.txt_chunk4.txt,112,1f00e0f4987f98eab3da885a7ad10103e82e1430

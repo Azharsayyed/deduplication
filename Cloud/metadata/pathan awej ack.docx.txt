@@ -1,0 +1,10 @@
+pathan awej ack.docx,pathan awej ack.docx_chunk0.docx,1760,3ff8da9b12d1a49df70a1b94e2bbcfd08142c782
+pathan awej ack.docx,pathan awej ack.docx_chunk1.docx,1760,213bf1e5013fdeb7eea36070d509a42e09c3540b
+pathan awej ack.docx,pathan awej ack.docx_chunk2.docx,1760,2427c7f7d9142f5bdec9f51db435c228673252c2
+pathan awej ack.docx,pathan awej ack.docx_chunk3.docx,1760,04af480e5294509fc03b4cf4cc21cb136b2c09ed
+pathan awej ack.docx,pathan awej ack.docx_chunk4.docx,1760,1204a63d20ac96fec4d173203c2cc89e18799276
+pathan awej ack.docx,pathan awej ack.docx_chunk5.docx,1760,834048472b6fd8010996ab55235f922992bdefa2
+pathan awej ack.docx,pathan awej ack.docx_chunk6.docx,1760,57db4ff14634364f4a49bef34c67b55a0a9eff3b
+pathan awej ack.docx,pathan awej ack.docx_chunk7.docx,1760,0516b6372b58ac5ecbacb817c9406787aa5df6cc
+pathan awej ack.docx,pathan awej ack.docx_chunk8.docx,1760,d706380fa6cad52edce318bae648ea0a98fc26de
+pathan awej ack.docx,pathan awej ack.docx_chunk9.docx,1760,d0f2918839b413af131b98ae1b749fd1044af411
